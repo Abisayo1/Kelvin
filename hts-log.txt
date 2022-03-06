@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 05 Mar 2022 15:27:23 at https://troikaschool.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://troikaschool.org -O1 "C:\My Web Sites\Kelvin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:27:26	Warning: 	Note: due to https://troikaschool.org remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:35:29	Warning: 	Retry after error -2 (Receive Time Out) at link https://troikaschool.org/wp-content/plugins/colibri-page-builder/extend-builder/assets/static/fancybox/jquery.fancybox.min.css?ver=1.0.206 (from https://troikaschool.org/)
+15:46:27	Error: 	"Not Found" (404) at link https://troikaschool.org/https:/troikaschool.org/wp-content/uploads/2021/10/laptop-desk-computer-writing-screen-man-653052-pxhere-com-1.jpg (from https://troikaschool.org/)
+15:46:38	Warning: 	Moved Permanently for https://troikaschool.org/?p=6
+15:46:38	Warning: 	File has moved from https://troikaschool.org/?p=6 to https://troikaschool.org/about-us/
+15:48:42	Warning: 	Retry after error -4 (Connect Error) at link https://troikaschool.org/wp-content/uploads/elementor/css/global.css?ver=1634826702 (from https://troikaschool.org/admissions/)
+15:48:42	Warning: 	Retry after error -2 (Receive Time Out) at link https://troikaschool.org/wp-json/wp/v2/pages/14 (from https://troikaschool.org/admissions/)
+15:48:47	Warning: 	Moved Permanently for https://troikaschool.org/?p=14
+15:48:47	Warning: 	File has moved from https://troikaschool.org/?p=14 to https://troikaschool.org/admissions/
+15:48:47	Warning: 	Moved Permanently for https://troikaschool.org/?p=7
+15:48:47	Warning: 	File has moved from https://troikaschool.org/?p=7 to https://troikaschool.org/multilingual-studies/
+15:48:47	Warning: 	Retry after error -2 (Receive Time Out) at link https://troikaschool.org/?p=33 (from https://troikaschool.org/school-curriculum/)
+15:48:49	Warning: 	Retry after error -4 (Connect Error) at link https://troikaschool.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftroikaschool.org%2Fschool-curriculum%2F&format=xml (from https://troikaschool.org/school-curriculum/)
+15:49:11	Warning: 	Retry after error -4 (Connect Error) at link https://troikaschool.org/wp-content/uploads/2021/10/troika-school-lagos-nigeria-best-school-in-quality-great-pupil-good-teachers44.jpg (from https://troikaschool.org/extra-curriculars/)
+15:49:32	Warning: 	Retry after error -4 (Connect Error) at link https://troikaschool.org/wp-json/wp/v2/pages/15 (from https://troikaschool.org/extra-curriculars/)
+15:49:45	Warning: 	Moved Permanently for https://troikaschool.org/?p=15
+15:49:45	Warning: 	File has moved from https://troikaschool.org/?p=15 to https://troikaschool.org/extra-curriculars/
+15:49:45	Warning: 	Retry after error -2 (Receive Time Out) at link https://troikaschool.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftroikaschool.org%2Fextra-curriculars%2F (from https://troikaschool.org/extra-curriculars/)
+15:50:03	Warning: 	Moved Permanently for https://troikaschool.org/?p=23
+15:50:03	Warning: 	File has moved from https://troikaschool.org/?p=23 to https://troikaschool.org/why-we-are-different/
+15:50:04	Warning: 	Moved Permanently for https://troikaschool.org/?p=17
+15:50:04	Warning: 	File has moved from https://troikaschool.org/?p=17 to https://troikaschool.org/gallery/
+15:50:54	Warning: 	Moved Permanently for https://troikaschool.org/?p=27
+15:50:54	Warning: 	File has moved from https://troikaschool.org/?p=27 to https://troikaschool.org/contact-us/
+15:50:54	Warning: 	Retry after error -2 (Receive Time Out) at link https://troikaschool.org/wp-content/plugins/forminator/assets/img/flags@2x.png (from https://troikaschool.org/wp-content/plugins/forminator/assets/css/intlTelInput.min.css?ver=4.0.3)
+15:50:54	Warning: 	Retry after error -2 (Receive Time Out) at link https://troikaschool.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0 (from https://troikaschool.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0)
+15:50:55	Warning: 	Moved Permanently for https://troikaschool.org/?p=33
+15:50:55	Warning: 	File has moved from https://troikaschool.org/?p=33 to https://troikaschool.org/school-curriculum/
+15:50:55	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://troikaschool.org/wp-content/uploads/2021/10/troika-school-lagos-nigeria-best-school-in-quality-great-pupil-good-teachers44.jpg (from https://troikaschool.org/extra-curriculars/)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_close.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_nav_left.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_nav_right.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_title_over.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_title_left.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_title_main.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_title_right.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+15:50:57	Error: 	"Not Found" (404) at link https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/images/envirabox/fancy_loading.png (from https://troikaschool.org/wp-content/plugins/envira-gallery-lite/assets/css/fancybox.css?ver=1.8.3.7)
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 minutes 44 seconds : 192 links scanned, 163 files written (11500991 bytes overall) [12578273 bytes received at 8833 bytes/sec]
+(9 errors, 28 warnings, 0 messages)
